@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PDA-Balaji-Petrolium/static/css/main.1e14267d.css",
+    "main.js": "/PDA-Balaji-Petrolium/static/js/main.5816baac.js",
+    "static/js/453.261a14bd.chunk.js": "/PDA-Balaji-Petrolium/static/js/453.261a14bd.chunk.js",
+    "index.html": "/PDA-Balaji-Petrolium/index.html",
+    "main.1e14267d.css.map": "/PDA-Balaji-Petrolium/static/css/main.1e14267d.css.map",
+    "main.5816baac.js.map": "/PDA-Balaji-Petrolium/static/js/main.5816baac.js.map",
+    "453.261a14bd.chunk.js.map": "/PDA-Balaji-Petrolium/static/js/453.261a14bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e14267d.css",
+    "static/js/main.5816baac.js"
+  ]
+}
