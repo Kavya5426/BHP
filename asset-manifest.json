@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/PDA-Balaji-Petrolium/static/css/main.1e14267d.css",
-    "main.js": "/PDA-Balaji-Petrolium/static/js/main.2da68fe6.js",
-    "static/js/453.261a14bd.chunk.js": "/PDA-Balaji-Petrolium/static/js/453.261a14bd.chunk.js",
-    "index.html": "/PDA-Balaji-Petrolium/index.html",
-    "main.1e14267d.css.map": "/PDA-Balaji-Petrolium/static/css/main.1e14267d.css.map",
-    "main.2da68fe6.js.map": "/PDA-Balaji-Petrolium/static/js/main.2da68fe6.js.map",
-    "453.261a14bd.chunk.js.map": "/PDA-Balaji-Petrolium/static/js/453.261a14bd.chunk.js.map"
+    "main.css": "/BHP/static/css/main.3dd90b81.css",
+    "main.js": "/BHP/static/js/main.70f536c2.js",
+    "static/js/453.261a14bd.chunk.js": "/BHP/static/js/453.261a14bd.chunk.js",
+    "static/media/Login.png": "/BHP/static/media/Login.f2daa7d9f24a94f99ec7.png",
+    "index.html": "/BHP/index.html",
+    "main.3dd90b81.css.map": "/BHP/static/css/main.3dd90b81.css.map",
+    "main.70f536c2.js.map": "/BHP/static/js/main.70f536c2.js.map",
+    "453.261a14bd.chunk.js.map": "/BHP/static/js/453.261a14bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e14267d.css",
-    "static/js/main.2da68fe6.js"
+    "static/css/main.3dd90b81.css",
+    "static/js/main.70f536c2.js"
   ]
 }
