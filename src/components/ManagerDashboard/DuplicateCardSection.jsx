@@ -86,5 +86,4 @@ const DuplicateCardSection = () => {
     </div>
   );
 };
-
 export default DuplicateCardSection;

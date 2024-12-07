@@ -1,12 +1,11 @@
 // src/App.js
-import React from 'react';
+/*import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ManagerDashboard from './components/ManagerDashboard/ManagerDashboard';
 import NewCardForm from './components/ManagerDashboard/NewCardForm';
 import Redemption from "./components/ManagerDashboard/Redemption";
 import GiftInventory from "./components/ManagerDashboard/GiftInventory";
 import Report from "./components/ManagerDashboard/Report";
-import DuplicateCardForm from './components/ManagerDashboard/DuplicateCardSection';
 import DuplicateCardSection from './components/ManagerDashboard/DuplicateCardSection';
 function App() {
   return (
@@ -23,6 +22,28 @@ function App() {
       </div>
     </Router>
   );
-}
+}*/
+
+// src/App.jsx
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import LoginForm from './components/Login/LoginForm';
+import CreateAccount from './components/Login/CreateAccount';
+import ManagerDashboard from './components/ManagerDashboard/ManagerDashboard';
+import AdminDashboard from './components/AdminDashboard/AdminDashboard';
+
+const App = () => {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<LoginForm />} />
+        <Route path="/create-account" element={<CreateAccount />} />
+        <Route path="/manager-dashboard" element={<ManagerDashboard />} />
+        <Route path="/admin-dashboard" element={<AdminDashboard />} />
+      </Routes>
+    </Router>
+  );
+};
+
 
 export default App;
