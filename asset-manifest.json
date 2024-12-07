@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BHP/static/css/main.3dd90b81.css",
-    "main.js": "/BHP/static/js/main.70f536c2.js",
+    "main.js": "/BHP/static/js/main.5b428512.js",
     "static/js/453.261a14bd.chunk.js": "/BHP/static/js/453.261a14bd.chunk.js",
     "static/media/Login.png": "/BHP/static/media/Login.f2daa7d9f24a94f99ec7.png",
     "index.html": "/BHP/index.html",
     "main.3dd90b81.css.map": "/BHP/static/css/main.3dd90b81.css.map",
-    "main.70f536c2.js.map": "/BHP/static/js/main.70f536c2.js.map",
+    "main.5b428512.js.map": "/BHP/static/js/main.5b428512.js.map",
     "453.261a14bd.chunk.js.map": "/BHP/static/js/453.261a14bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dd90b81.css",
-    "static/js/main.70f536c2.js"
+    "static/js/main.5b428512.js"
   ]
 }
